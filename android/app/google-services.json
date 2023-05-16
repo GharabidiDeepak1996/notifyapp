@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "80967488627",
+    "project_id": "demoreactnativenotification",
+    "storage_bucket": "demoreactnativenotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80967488627:android:a99ecbe2ab954a3297c606",
+        "android_client_info": {
+          "package_name": "com.demonotificationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80967488627-l3g2fd7tnf7p383a28527rpihdk3jsm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJMrsdzHD1Z82XjmJKswtBVsvbg0FKRNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80967488627-l3g2fd7tnf7p383a28527rpihdk3jsm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80967488627:android:08f0288815b422d597c606",
+        "android_client_info": {
+          "package_name": "com.notifyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80967488627-l3g2fd7tnf7p383a28527rpihdk3jsm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJMrsdzHD1Z82XjmJKswtBVsvbg0FKRNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80967488627-l3g2fd7tnf7p383a28527rpihdk3jsm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
